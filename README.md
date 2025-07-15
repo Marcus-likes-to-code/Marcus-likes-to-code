@@ -14,4 +14,3 @@ I'm currently diving deeper into:
 - Connecting SQL to larger software architectures
 - Exploring advanced normalization and performance optimization
 - Integrating databases into scalable, maintainable backend systems  
--
